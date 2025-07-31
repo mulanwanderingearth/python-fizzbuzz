@@ -1,4 +1,4 @@
-# Python FizzBuzz edited by Xin Li and Nina
+# Python FizzBuzz edited by Xin Li and Nina (using PAT)
 
 This segment is intended to be used to teach how to use the Python debugger along with Pytest.
 
