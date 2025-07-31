@@ -1,4 +1,4 @@
-# Python FizzBuzz
+# Python FizzBuzz edited by Xin
 
 This segment is intended to be used to teach how to use the Python debugger along with Pytest.
 
@@ -18,7 +18,6 @@ $ source venv/bin/activate
 
 3.  Install the dependencies
 
-
 ```bash
 pip install -r requirements.txt
 ```
@@ -36,7 +35,6 @@ $ pytest
 But for multiples of three it should output “Fizz” instead of the number and for the multiples of five output “Buzz”. For numbers which are multiples of both three and five output “FizzBuzz”.
 
 **Example:**
-
 
 ```
 n = 15,
@@ -63,4 +61,4 @@ Return:
 
 ## Implementation Not working
 
-However this function is not passing all it's tests.  Use the debugger to make the program pass the given tests.
+However this function is not passing all it's tests. Use the debugger to make the program pass the given tests.
